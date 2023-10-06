@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.actitime.testscript.Customermod"/>
+      <class name="com.actitime.testscript.Projectmod"/>
+      <class name="com.actitime.testscript.DemoTestNG"/>
+      <class name="upcasting.Demo1"/>
+      <class name="com.actitime.testscript.Taskmod"/>
+      <class name="com.actitime.testscript.CustomerModule"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
